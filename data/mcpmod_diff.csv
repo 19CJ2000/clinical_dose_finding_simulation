@@ -1,0 +1,11 @@
+TRTGRP,_TRTGRP,Estimate,StdErr
+Drug X 10 mg,Drug X 25 mg,-1.5118,1.2649
+Drug X 10 mg,Drug X 5 mg,-0.02971,1.2462
+Drug X 10 mg,Drug X 50 mg,-3.9415,1.2816
+Drug X 10 mg,Placebo,3.0821,1.2576
+Drug X 25 mg,Drug X 5 mg,1.4821,1.2759
+Drug X 25 mg,Drug X 50 mg,-2.4297,1.3029
+Drug X 25 mg,Placebo,4.5939,1.2811
+Drug X 5 mg,Drug X 50 mg,-3.9118,1.2930
+Drug X 5 mg,Placebo,3.1118,1.2605
+Drug X 50 mg,Placebo,7.0236,1.2997

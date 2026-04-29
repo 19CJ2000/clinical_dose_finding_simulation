@@ -1,0 +1,6 @@
+TRTGRP,Estimate,StdErr,dose
+Placebo,-1.4816,0.9338,0
+Drug X 5 mg,1.6301,0.9092,5
+Drug X 10 mg,1.6004,0.8844,10
+Drug X 25 mg,3.1123,0.9320,25
+Drug X 50 mg,5.5420,0.9547,50
